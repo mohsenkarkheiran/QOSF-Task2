@@ -1,6 +1,6 @@
-# QOSF-Task2
-Task 2 for QOSF Screening
+# Quantum Adder With Noise
 
+(This was initially done for QOSF mentorship screening. The solution/codes in the python notebook is chosen as the best solution by QOSF team.)
 
 Task 2 Noise, Noise, and More Noise 
 
